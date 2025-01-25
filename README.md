@@ -24,3 +24,7 @@ Weather : Retrofit Weather Api
 <br>
 
 TheImageLoader: Retrofit Post
+
+<br>
+
+AnimationApp : Animation

@@ -39,3 +39,6 @@ DesignerDashboard : ViewBinding
 
 <br>
 
+MusicPlayer :MediaPlayer
+
+<br>
